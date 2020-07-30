@@ -1,0 +1,71 @@
+body{
+    background: url(img/back.jpg) 
+    no-repeat center center fixed;
+    background-size: cover;
+    font-family: sans-serif;
+}
+
+/*main content of the webpage*/
+
+.container{
+    width: 40%;
+    margin: auto;
+    overflow: hidden;
+    padding: 1rem;
+    background-color: #816b55;
+    border-radius: 15px;
+    text-align: center;
+    margin-top: 24%;
+}
+
+/*For Horizontal Lines*/
+hr{
+    width: 80%;
+}
+
+/*Facebook Button*/
+.fb{
+    padding: 0.5rem 2rem;
+    color: #816b55 ;
+    background-color: #46335c;
+    border: none;
+    border-radius: 5px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.container input{
+    padding: 0.2rem;
+    width: 35%;
+}
+
+
+/*For adjusting the wodth of checkbox*/
+
+.container input[type=checkbox]
+{
+    width: auto;
+}
+
+/*Sign-Up Button at the End*/
+
+.btn{
+    padding: 1rem;
+    background-color: #46335c;
+    font-size: 1rem;
+    width: 50%;
+    border-radius: 7px;
+    border: none;
+}
+
+
+
+
+
+
+
+
+
+
